@@ -9,7 +9,7 @@ export default function Homepage({ history }) {
     return (
         <div className='container maint-cnt'>
             <div className="header-nav">
-                <span className="mytext1"> Safety Travels </span>
+                <span className="mytext1"> Unique Travels </span>
             </div>
             
             <div className="">
@@ -18,11 +18,11 @@ export default function Homepage({ history }) {
             <div className="container">
                 <div className="slogan">
                     <h1>
-                        <span>Safety  - </span>
+                        <span>always Travel</span>
                         <div className="message">
-                            <div className="word1">Health</div>
-                            <div className="word2">Care</div>
-                            <div className="word3">Smile</div> 
+                            <div className="word1">Uniquely</div>
+                            <div className="word2">Safely</div>
+                            <div className="word3">with a smile</div>
                         </div>
                     </h1>
                 </div>
