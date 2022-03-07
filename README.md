@@ -46,15 +46,6 @@ Developed With
 # MongoDB atlas - MongoDB Atlas is the global cloud database service for modern applications.
 # Passport Js - Passport is authentication middleware for Node.js. Extremely flexible and modular, Passport can be unobtrusively dropped in to any Express-based web application.
 
-Install
-Follow the following steps to get development environment running.
-
-Clone 'MERN-BUS-APP.git' repository from GitHub
-
-git clone https://github.com/AdityaKumawat97/MERN-BUS-APP.git
-OR USING SSH
-
-git clone git@github.com:AdityaKumawat97/MERN-BUS-APP.git
 Install node modules
 
 cd MERN-BUS-APP
