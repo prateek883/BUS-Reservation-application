@@ -46,25 +46,6 @@ Developed With
 # MongoDB atlas - MongoDB Atlas is the global cloud database service for modern applications.
 # Passport Js - Passport is authentication middleware for Node.js. Extremely flexible and modular, Passport can be unobtrusively dropped in to any Express-based web application.
 
-Install node modules
 
-cd MERN-BUS-APP
-cd frontend
-npm install
-cd..
-cd backend
-npm install
-Starting both front end and back end servers
-Build application
-
-This command will start the mongodb and the front end part.
-
-cd frontend
-npm start
-cd..
-cd backend
-npm run devStart
-
-This version does not support dynamic seat data being stored from cloud.
 
 
